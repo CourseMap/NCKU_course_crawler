@@ -1,6 +1,10 @@
 # NCKU_course_crawler
 Web Crawler for NCKU couse .
 
+Please enter <B>" 1 "</B> if you want to select first semester
+
+And enter <B>" 2 "</B> if you want to select second semester
+
 Here is my data type:
   ```
   { 
@@ -9,4 +13,4 @@ Here is my data type:
       ...
   }
   ```
-  The dict connot convert to json because of dataframe .
+ 
